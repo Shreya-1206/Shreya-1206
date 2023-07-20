@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shreya
 - 👀 I’m interested in drawing , designing , and reading articals
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning ful stack web development
 - 📫 How to reach me shreyaray.1206@gmail.com
 
 <!---
